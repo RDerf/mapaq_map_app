@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   .leaflet-container{
-    height: 800px;
+    height: 80vh;
   }
 }
 
