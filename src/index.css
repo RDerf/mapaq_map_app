@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   .leaflet-container{
     height: 800px;
+<<<<<<< HEAD
+=======
+    length: 600px;
+>>>>>>> 7b6ae924f3fef6984fbe12e21249d02a727b1b83
   }
 }
 
