@@ -1,11 +1,20 @@
-import React from 'react'
 import './App.css'
-import { GeoJSON } from 'react-leaflet'
 import MyMap from './components/MyMap'
+import TopPanel from './components/TopPanel'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'mapbox-gl/dist/mapbox-gl.css'
+import './App.css'
+
 
 
 function App() {
-  return <MyMap />
+
+  return(
+    <div>
+    <TopPanel/> 
+    <MyMap />
+    </div>
+  ) 
 }
 
 

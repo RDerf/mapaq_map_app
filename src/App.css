@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.custom-admin-switch {
+  width: 100%;
+  color : #FFFFFF;
+  margin-left:15vh;
+}
